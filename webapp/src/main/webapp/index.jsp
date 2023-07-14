@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile2233</b></label>
+    <label for="mobile"><b>Enter mobileNumber</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou!!!!!!, Happy Learning </h1>
-
+   <a href="https://www.w3schools.com">Visit W3Schools</a>
   
 </form>
